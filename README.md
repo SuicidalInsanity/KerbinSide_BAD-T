@@ -1,6 +1,7 @@
 OVERVIEW
 ===================================================================================================================
 WW II themed statics pack made for the BAD-T WWII tournament. Only contains custom statics and configs; no KerbinSide material is included; Installation of KerbinSide/kerbalKonstructs is required for this pack to function.
+Now KSP 1.05 compatible.
 
 INSTALLATION
 ===================================================================================================================
