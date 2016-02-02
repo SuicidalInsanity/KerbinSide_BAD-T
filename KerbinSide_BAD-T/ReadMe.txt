@@ -36,6 +36,19 @@ Takeoff orientation:
 	A -->        <-- B
 	A -->        <-- B    
 
+Kenemunde Rocket Base: 
+Refurbished military airfield and launch facility on the Eastern continent. Short runway length mitigated by flat location.
+
+Runway Length; 300m
+
+Takeoff orientation:
+
+	A -->
+	A -->
+	<-- B
+	<-- B
+
+
 This pack also comes with one premade arena for 1v1 or 2v2 dogfights. This arena features 2 runways, divided into A and B for easy setup of craft.
 
 Crater Fleet Carrier Group:

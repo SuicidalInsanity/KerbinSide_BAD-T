@@ -9,7 +9,7 @@ Requires kerbinSide. Place the included KerbinSide folder inside GameData, and a
 
 Included Arenas
 ===================================================================================================================
-This pack comes with three premade arenas for 2v2 dogfights. Each arena features 4 runways, divided into A and B groups for easy setup of craft.
+This pack comes with four premade arenas for 2v2 dogfights. Each arena features 4 runways, divided into A and B groups for easy setup of craft.
 
 Boostershire farms: 
 Small farm next to a river. Runways are closer together; attempting to do 2v2 with bomber-sized craft may result in runway collisions during takeoff.
@@ -46,6 +46,18 @@ Takeoff orientation:
 	A -->        <-- B    
 
 This pack also comes with one premade arena for 1v1 or 2v2 dogfights. This arena features 2 runways, divided into A and B for easy setup of craft.
+
+Kenemunde Rocket Base: 
+Refurbished military airfield and launch facility on the Eastern continent. Short runway length mitigated by flat location
+
+Runway Length; 300m
+
+Takeoff orientation:
+
+	A -->
+	A -->
+	<-- B
+	<-- B
 
 Crater Fleet Carrier Group:
 A pair of WWII vintage aircaft carriers a few kilometers apart. Carriers are wide enough to permit a pair of aircraft to takeoff from each carrier simultaneously. However, secondary crafts will need to be placed manually. Carrier flight decks are short and close to the surcafe of the ocean. Craft lacking short takeoff distances or fast climb rates are not recommended.
