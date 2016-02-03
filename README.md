@@ -5,7 +5,7 @@ Now KSP 1.05 compatible.
 
 INSTALLATION
 ===================================================================================================================
-Requires kerbinSide. Place the included KerbinSide folder inside GameData, and and overwrite files.
+Requires kerbinSide/KerbalKonstructs. Place the included KerbinSide folder inside GameData, and and overwrite files.
 
 Included Arenas
 ===================================================================================================================
@@ -45,8 +45,6 @@ Takeoff orientation:
 	A -->        <-- B
 	A -->        <-- B    
 
-This pack also comes with one premade arena for 1v1 or 2v2 dogfights. This arena features 2 runways, divided into A and B for easy setup of craft.
-
 Kenemunde Rocket Base: 
 Refurbished military airfield and launch facility on the Eastern continent. Short runway length mitigated by flat location
 
@@ -59,6 +57,9 @@ Takeoff orientation:
 	<-- B
 	<-- B
 
+This pack also comes with one premade arena for 1v1 or 2v2 dogfights. This arena features 2 runways, divided into A and B for easy setup of craft.
+
+
 Crater Fleet Carrier Group:
 A pair of WWII vintage aircaft carriers a few kilometers apart. Carriers are wide enough to permit a pair of aircraft to takeoff from each carrier simultaneously. However, secondary crafts will need to be placed manually. Carrier flight decks are short and close to the surcafe of the ocean. Craft lacking short takeoff distances or fast climb rates are not recommended.
 
@@ -69,6 +70,20 @@ Takeoff orientation:
 	A -->     <-- B
 	A -->     <-- B
 
+Finally, this pack comes with one premade arena for 3v3 dogfights. This arena features 6 runways, divided into A and B for easy setup of craft
+
+Oasis Proving Grounds
+A dedicated combat arena situated around a desert oasis. Come for the fights, stay for the beach parties. Fighters can get pretty spread out, using the Wingman commands to keep them grouped may be requiredneeded.
+
+Runway Length: 850m
+
+Takeoff Orientation:
+	<--A
+	<--A
+	<--A
+		BBB
+		|||
+		+++
 LICENSE
 ===================================================================================================================
 This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License(http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).

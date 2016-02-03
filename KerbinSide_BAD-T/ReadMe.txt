@@ -5,11 +5,11 @@ This pack is compatible with KSP 1.05
 
 INSTALLATION
 ===================================================================================================================
-Requires kerbinSide. Place the included KerbinSide folder inside GameData, and and overwrite files.
+Requires kerbinSide/KerbalKonstructs. Place the included KerbinSide folder inside GameData, and and overwrite files.
 
 Included Arenas
 ===================================================================================================================
-This pack comes with three premade arenas for 2v2 dogfights. Each arena features 4 runways, divided into A and B groups for easy setup of craft.
+This pack comes with four premade arenas for 2v2 dogfights. Each arena features 4 runways, divided into A and B groups for easy setup of craft.
 
 Boostershire farms: 
 Small farm next to a river. Runways are closer together; attempting to do 2v2 with bomber-sized craft may result in runway collisions during takeoff.
@@ -57,6 +57,19 @@ Runway Length: 260m
 Takeoff orientation:
 	A -->     <-- B
 	A -->     <-- B
+
+Finally, this pack comes with one premade arena for 3v3 dogfights. This arena features 6 runways, divided into A and B for easy setup of craft
+
+Oasis Proving Grounds
+A dedicated combat arena situated around a desert oasis. Come for the fights, stay for the beach parties. Fighters can get pretty spread out, using the Wingman commands to keep them grouped may be requiredneeded.
+Runway Length: 850m
+Takeoff Orientation:
+	<--A
+	<--A
+	<--A
+		BBB
+		|||
+		+++
 
 LICENSE
 ===================================================================================================================
