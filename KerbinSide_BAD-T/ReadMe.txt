@@ -1,11 +1,11 @@
 OVERVIEW
 ===================================================================================================================
-WWII themed statics pack made for the BAD-T WWII tournament. Only contains custom statics and configs; no KerbinSide material is included; Installation of KerbinSide/kerbalKonstructs is required for this pack to function.
+WWII themed statics pack made for the BAD-T WWII tournament. Installation of kerbalKonstructs is required for this pack to function.
 This pack is compatible with KSP 1.05
 
 INSTALLATION
 ===================================================================================================================
-Requires kerbinSide/KerbalKonstructs. Place the included KerbinSide folder inside GameData, and and overwrite files.
+Requires KerbalKonstructs. Place the included BADTKonstructs folder inside GameData, and and overwrite files.
 
 Included Arenas
 ===================================================================================================================
@@ -38,11 +38,8 @@ Takeoff orientation:
 
 Kenemunde Rocket Base: 
 Refurbished military airfield and launch facility on the Eastern continent. Short runway length mitigated by flat location.
-
 Runway Length; 300m
-
 Takeoff orientation:
-
 	A -->
 	A -->
 	<-- B
@@ -58,10 +55,10 @@ Takeoff orientation:
 	A -->     <-- B
 	A -->     <-- B
 
-Finally, this pack comes with one premade arena for 3v3 dogfights. This arena features 6 runways, divided into A and B for easy setup of craft
+Finally, this pack comes with one premade arena for up to 3v3 dogfights. This arena features 6 runways, divided into A and B for easy setup of craft
 
 Oasis Proving Grounds
-A dedicated combat arena situated around a desert oasis. Come for the fights, stay for the beach parties. Fighters can get pretty spread out, using the Wingman commands to keep them grouped may be requiredneeded.
+A dedicated combat arena situated around a desert oasis. Come for the fights, stay for the beach parties. Fighters can get pretty spread out, using the Wingman commands to keep them grouped may be required/needed.
 Runway Length: 850m
 Takeoff Orientation:
 	<--A
@@ -74,3 +71,5 @@ Takeoff Orientation:
 LICENSE
 ===================================================================================================================
 This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License(http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
+
+This pack makes use of textures from KerbinSide by AlphaAsh; textures used with permission.
